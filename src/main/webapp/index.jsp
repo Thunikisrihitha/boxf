@@ -25,7 +25,7 @@
     </strong>
 </p>
 
-<p style="margin-bottom: 20px;">
+<p style="margin-bottom: 10px;">
     List all running Instances:<br/>
     <strong>boxfuse ps</strong>
 </p>
