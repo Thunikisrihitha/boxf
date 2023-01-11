@@ -17,7 +17,7 @@
 </strong></p>
 
 <% if("virtualbox".equals(System.getenv("BOXFUSE_PLATFORM_ID"))) { %>
-<h2 style="margin-top: 80px">Next steps</h2>
+<h2 style="margin-top: 100px">Next steps</h2>
 
 <p style="margin-bottom: 20px;">
     Display the Instance console:<br/>
@@ -25,7 +25,7 @@
     </strong>
 </p>
 
-<p style="margin-bottom: 10px;">
+<p style="margin-bottom: 30px;">
     List all running Instances:<br/>
     <strong>boxfuse ps</strong>
 </p>
